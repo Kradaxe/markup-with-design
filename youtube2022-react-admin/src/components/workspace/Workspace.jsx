@@ -6,7 +6,7 @@
   import ImageComments from "../commentsAdd/ImageComments";
   import { useNavigate } from "react-router-dom";
   import { MyContext } from "../../App";
-  import './workspace-components/DashboardImage.css' // Import the CSS for styling
+  import './workspace-components/DashboardImage.scss' // Import the CSS for styling
   import GuestLogin from './workspace-components/GuestLogin'
   import './workspace-components/ImageCard.css'
   import ShareButton from './workspace-components/ShareButton'
